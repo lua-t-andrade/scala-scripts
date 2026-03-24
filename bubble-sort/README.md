@@ -1,8 +1,11 @@
-## sbt project compiled with Scala 3
+# Bubble Sort Implementation
+
+## Non-functional
 
 ### Usage
 
-This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
+This is a simple bubble sort implementation in Scala 3. You can change the ArrayBuffer buf to try out other arrays to sort.
 
-For more information on the sbt-dotty plugin, see the
-[scala3-example-project](https://github.com/scala/scala3-example-project/blob/main/README.md).
+`scala run` will run the code for you!
+
+
